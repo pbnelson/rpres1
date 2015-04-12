@@ -1,0 +1,39 @@
+My Test Pres
+========================================================
+author: PBN
+date: `r date()`
+transition: rotate
+
+First Slide
+========================================================
+transition: linear
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+transition: concave
+
+
+```{r}
+summary(cars)
+```
+
+
+Slide With Plot
+========================================================
+transition: zoom
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+$x^2$
+
+
+
